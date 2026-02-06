@@ -1,0 +1,2 @@
+# ComfyUI_Custom_Nodes_AlekPet
+ComfyUI_Custom_Nodes_AlekPet 国外大师们用的谷歌翻译，也最流畅的翻译，国内需要科学上网！
